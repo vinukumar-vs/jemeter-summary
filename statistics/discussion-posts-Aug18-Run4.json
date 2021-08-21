@@ -1,0 +1,34 @@
+{
+  "discussion-forum-user-upvotes" : {
+    "transaction" : "discussion-forum-user-upvotes",
+    "sampleCount" : 100000,
+    "errorCount" : 25044,
+    "errorPct" : 25.044,
+    "meanResTime" : 49.5759299999992,
+    "medianResTime" : 24.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 755.0,
+    "pct1ResTime" : 63.0,
+    "pct2ResTime" : 86.0,
+    "pct3ResTime" : 163.0,
+    "throughput" : 1411.851077948298,
+    "receivedKBytesPerSec" : 9611.753720889397,
+    "sentKBytesPerSec" : 2339.9487426363144
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100000,
+    "errorCount" : 25044,
+    "errorPct" : 25.044,
+    "meanResTime" : 49.5759299999992,
+    "medianResTime" : 24.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 755.0,
+    "pct1ResTime" : 63.0,
+    "pct2ResTime" : 86.0,
+    "pct3ResTime" : 163.0,
+    "throughput" : 1411.851077948298,
+    "receivedKBytesPerSec" : 9611.753720889397,
+    "sentKBytesPerSec" : 2339.9487426363144
+  }
+}
